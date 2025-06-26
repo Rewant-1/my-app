@@ -3,6 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --sky-500: #0ea5e9;
 }
 
 @theme inline {
